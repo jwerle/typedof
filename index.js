@@ -7,7 +7,7 @@
  */
 
 module.exports = typed;
-function typed (i) {
+function typedof (i) {
 	var type = ({}).toString
 		.call(i)
 		.toLowerCase()
