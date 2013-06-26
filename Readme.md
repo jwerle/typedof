@@ -1,5 +1,4 @@
-
-# type
+# typedof
 
   better type checking
 
