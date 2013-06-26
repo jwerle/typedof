@@ -1,0 +1,20 @@
+{
+  "name": "typedof",
+  "version": "0.0.1",
+  "description": "better type checking",
+  "main": "y",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jwerle/typed.git"
+  },
+  "keywords": [
+    "type",
+    "checking"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md"
+}
