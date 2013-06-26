@@ -1,4 +1,0 @@
-typed
-=====
-
-better type checking
