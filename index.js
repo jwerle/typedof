@@ -6,7 +6,7 @@
  * @param {Mixed} i
  */
 
-module.exports = typed;
+module.exports = typedof;
 function typedof (i) {
 	var type = ({}).toString
 		.call(i)
