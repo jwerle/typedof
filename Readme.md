@@ -3,6 +3,9 @@
 
   better type checking
 
+![](https://api.travis-ci.org/jwerle/typed.png?branch=master)
+![](https://ci.testling.com/jwerle/typed.png)
+
 ## install
 
 ***node***
